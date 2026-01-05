@@ -1,6 +1,10 @@
 # PopIn's Plugin
 
-The **PopIn's** plugin adds custom Pop-Out windows for each video, and give a possibility to watch two streams at the same time at fullscreen on two different monitors.
+The **PopIn's** Vencord plugin adds custom Pop-Out windows for each video, and give a possibility to watch two streams at the same time at fullscreen on two different monitors.
+
+
+
+**Note:** This plugin requires [Vencord](https://vencord.dev/) to function.
 
 ## Features
 <img src="https://github.com/gitomatikus/PopIns/blob/main/Screenshot%202026-01-05%20022142.png?raw=true" width="45%" /> <img src="https://github.com/gitomatikus/PopIns/blob/main/Screenshot%202026-01-05%20022318.png?raw=true" width="45%" />
